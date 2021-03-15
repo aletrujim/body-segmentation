@@ -2,7 +2,7 @@
 Body segmentation test based in dense classification of the depth images to recognize the body parts (2021)
 
 * BRemNet* mask | mask segmented
-<img src="bremnet_mask.png" width="300"/> | <img src="bremnet_mask_segmented.png" width="300"/>
+<img src="images/bremnet_mask.png" width="300"/> | <img src="images/bremnet_mask_segmented.png" width="300"/>
 
 ## Installation
 Clone this repository:
@@ -26,7 +26,7 @@ If you use this data or the method for acquiring your own masks dataset in your 
 ```
 
 ## Segmentation reference
-<img src="reference.png" width="300"/>
+<img src="images/reference.png" width="300"/>
 
 ## Acknowledgments
 Real-Time Human Motion Capture with Multiple Depth Cameras. Project page [here](https://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)
