@@ -1,9 +1,9 @@
 # body-segmentation
 Body segmentation test based in dense classification of the depth images to recognize the body parts (2021)
 
-| * BRemNet* mask | mask segmented |
+| *BRemNet* mask | mask segmented |
 | --- | --- |
-| <img src="images/bremnet_mask.png" width="300"/> | <img src="images/bremnet_mask_segmented.png" width="300"/> |
+| <img src="images/bremnet_mask.png" width="300"/> | <img src="images/bremnet_mask_segmented.png" width="320"/> |
 
 ## Installation
 Clone this repository:
