@@ -30,5 +30,5 @@ If you use this data or the method for acquiring your own masks dataset in your 
 <img src="images/reference.png" width="400"/>
 
 ## Acknowledgments
-Real-Time Human Motion Capture with Multiple Depth Cameras. Project page [here](https://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)
+Real-Time Human Motion Capture with Multiple Depth Cameras. Project page [here](https://arxiv.org/abs/1605.08068)
 
